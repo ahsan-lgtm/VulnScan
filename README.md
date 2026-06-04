@@ -2,6 +2,8 @@
 
 Python-based modular security scanner for network reconnaissance, web application testing, SSL/TLS analysis, and CVE correlation.
 
+![Image Alt[](](https://github.com/ahsan-lgtm/VulnScan/blob/48e0d7a26c91c8abe9ad6a13d6c248378c793196/Screenshot%202026-06-03%20234922.png)
+
 ## Features
 
 | Module | Description |
